@@ -13,3 +13,4 @@ git clone https://github.com/katarinaVanish/zakrivayuschiy-teg-ad
 ## Использование
 
 Полистать страничку, потыкать кнопочки
+
